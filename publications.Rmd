@@ -6,27 +6,27 @@ description: |
 
 ## 2021		
 
-- McHenry, J., A. Rassweiler, G. Hernan, C.K. Uejio, S. Pau, A.K. Dubel & S.E. Lester. Modeling the biodiversity enhancement value of seagrass beds. Diversity & Distributions. 2021.
+- **McHenry, J.**, A. Rassweiler, G. Hernan, C.K. Uejio, S. Pau, A.K. Dubel & S.E. Lester. Modeling the biodiversity enhancement value of seagrass beds. _Diversity & Distributions._ 2021.
 
 ## 2020	
 
-- Lester, S. E., A.K. Dubel, G. Hernan, J. McHenry & A. Rassweiler. Applying spatial planning principles to marine ecosystem restoration. Frontiers in Marine Science. 2020.
+- Lester, S. E., A.K. Dubel, G. Hernan, **J. McHenry** & A. Rassweiler. Applying spatial planning principles to marine ecosystem restoration. _Frontiers in Marine Science._ 2020.
 
 ## 2019 	
 
-- McHenry, J., H. Welch H., S.E. Lester & V. Saba. Projecting marine species range shifts from ocean temperatures masks climate vulnerability. Global Change Biology. 2019.
+- **McHenry, J.**, H. Welch H., S.E. Lester & V. Saba. Projecting marine species range shifts from ocean temperatures masks climate vulnerability. _Global Change Biology._ 2019.
  
-- Siegel, K. J., R.B. Cabral, J. McHenry, E. Ojea, B. Owashi & S.E. Lester. Sovereign states in the Caribbean have lower social-ecological vulnerability to coral bleaching than overseas territories. Proceedings of the Royal Society B. 2019. 
+- Siegel, K. J., R.B. Cabral, **J. McHenry**, E. Ojea, B. Owashi & S.E. Lester. Sovereign states in the Caribbean have lower social-ecological vulnerability to coral bleaching than overseas territories. _Proceedings of the Royal Society B._ 2019. 
 
 ## 2018 	
 
-- Welch H & J. McHenry. Planning for dynamic process: An assemblage‐level surrogate strategy for species seasonal movement pathways. Aquatic Conservation: Marine and Freshwater Ecosystems. 2018. 
+- Welch H & **J. McHenry**. Planning for dynamic process: An assemblage‐level surrogate strategy for species seasonal movement pathways. _Aquatic Conservation: Marine and Freshwater Ecosystems._ 2018. 
 
 ## 2017 	
 
-- Lester, S. E., E.O. Ruff, K. Mayall, & J. McHenry. Exploring stakeholder perceptions of marine management in Bermuda. Marine Policy. 2017 
+- Lester, S. E., E.O. Ruff, K. Mayall, & **J. McHenry**. Exploring stakeholder perceptions of marine management in Bermuda. _Marine Policy._ 2017 
 
-- McHenry, J., R.S. Steneck, & D.C. Brady. Abiotic proxies for predictive mapping of near‐shore benthic assemblages: Implications for marine spatial planning. Ecological Applications. 2017. 
+- **McHenry, J.**, R.S. Steneck, & D.C. Brady. Abiotic proxies for predictive mapping of near‐shore benthic assemblages: Implications for marine spatial planning. _Ecological Applications._ 2017. 
 
 
 ```{r setup, include=FALSE}

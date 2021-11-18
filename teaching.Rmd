@@ -7,12 +7,11 @@ description: |
 ## Courses Taught:
 
 ### Geographic Information Systems lab (GIS4043L / GIS5101L) - Florida State University, Department of Geography 
-- This is a a computer-based course introducing the expanding field of geographic information, as a cross listed course open to undergraduate and graduate students. The course covers topics ranging from the GIS software and spatial data structures to the cartographic principles for mapping, metadata creation, and a variety of spatial analyses. Students also gain hands-on experience with  applying concepts and tools introduces in the lectures using ArcGIS Pro.
+- This is a a computer-based course introducing the expanding field of geographic information, as a cross listed course open to undergraduate and graduate students. The course covers topics ranging from the GIS software and spatial data structures to the cartographic principles for mapping, metadata creation, and a variety of spatial analyses. Students also gain hands-on experience with  applying concepts and tools introduces in the lectures using ArcGIS Pro. *Role: Instructor*
 
-## Courses TA'd: 
 
 ### Biogeography (GEO4300) - Florida State University, Department of Geography
-- This is an undergraduate course focused on the distributions (including past, present, and increasingly, future distributions) of species and ecosystems across both geographic space, and over time.  The course is a lecture and topical reading-based course providing students with a foundation in biogeography, and also in various biogeographical concepts as they apply to contemporary issues such as land management, invasive species, and species conservation. 
+- This is an undergraduate course focused on the distributions (including past, present, and increasingly, future distributions) of species and ecosystems across space and over time.  The course is a lecture and topical reading-based course providing students with a foundation in biogeography, and also in various biogeographical concepts as they apply to contemporary issues such as land management, invasive species, and species conservation. *Role: Graduate Teaching Assistant*
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
