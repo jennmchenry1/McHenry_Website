@@ -5,11 +5,19 @@ description: |
 
 ## Major Research Themes:
 
+
 ### Marine Macroecology
+
+![Image Caption: XXX.](Biodiversity.jpg)
 
 ### Biodiversity Redistribution with Climate Change
 
+![Image Caption: XXX.](Seagrass.jpg)
+
 ### Marine Ecosystem Services 
+
+![Image Caption: XXX.](Seagrass.jpg)
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
