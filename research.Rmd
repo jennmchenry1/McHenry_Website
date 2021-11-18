@@ -1,10 +1,20 @@
 ---
 title: "Research"
 description: |
-  Some additional details about the website
 ---
+
+## Major Research Themes:
+
+### Marine Macroecology
+
+### Biodiversity Redistribution with Climate Change
+
+### Marine Ecosystem Services 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+
+
+
 ```
 

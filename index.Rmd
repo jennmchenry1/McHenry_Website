@@ -1,21 +1,24 @@
 ---
 title: "Jennifer McHenry"
-description: "I am a quantitive geographer interested in a range of interdisciplinary
-  questions related to the macroecology, global change, and ecosystem services provided
-  by coastal marine ecosystems. My research is motivated by the dual goal of advancing
-  ecological theory and informing spatial managment decisions, related to habitat
-  consevation and restoration. Currently, I am completng a PhD in geography in the
-  \ Rasster Lab (the joint labs of [Dr. Sarah E. Lester](www.lester-lab.org) and [Dr.
-  Andrew Rassweiler](www.rassweiler-lab.org) at [Florida State University](www.geography.fsu.edu)).
-  My work combines novel field and laboratory approaches, data synthesis, modeling,
-  and geographic information systems (GIS). Scientific collaboration, partnerships
-  with marine stakeholders, and mentorship of undergraduate trainees are all important
-  facets of my work. \n"
+image: "headshot.jpg"
+links:
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: "https://twitter.com/JennMcHenry"
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: "https://github.com/jennmchenry1"
+  - label: '<i class="fa fa-envelope" aria-hidden="true"></i> Email'
+    url: "jamchenry@fsu.edu"
+
+output:
+  postcards::trestles
 site: distill::distill_website
+
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+
 
 # Learn more about creating websites with Distill at:
 # https://rstudio.github.io/distill/website.html
@@ -24,4 +27,34 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 
 ```
+
+## Bio
+
+I am a quantitative geographer interested in a range of interdisciplinary research questions related to the macroecology, global change, and ecosystem services provided by coastal marine ecosystems. My research is motivated by the dual goal of advancing ecological theory and informing spatial management decisions, related to habitat conservation and restoration, ocean planning, and sustainable fisheries. Currently, I am completing a PhD in geography in the Rasster Lab (the joint labs of [Dr. Sarah E. Lester](www.lester-lab.org) and [Dr. Andrew Rassweiler](www.rassweiler-lab.org) at [Florida State University](www.geography.fsu.edu)). My work combines novel field and laboratory approaches, data synthesis, modeling, and geographic information systems (GIS). Scientific collaboration, partnerships with marine stakeholders, and mentorship of undergraduate trainees are all important facets of my work.
+
+
+## CV
+
+PhD in Geography (Expected 2022), Florida State University
+
+Dual MSc. in Marine Biology and Marine Policy (2014), University of Maine
+
+BSc. in Marine Science (2010), University of Maine
+
+
+## Research Interests
+
+- Ecology and Biogeography 
+- Global Change Biology
+- Marine Ecosystem Services
+- Conservation and Restoration Science
+
+
+## Contact Information
+
+113 Collegiate Loop
+Bellamy Building, Room 307
+PO Box 3062190
+Tallahassee, FL, 32306
+
 
