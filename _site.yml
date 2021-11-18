@@ -1,7 +1,6 @@
 name: "Mchenry_Academic_Website_Distill"
 title: "Jennifer McHenry"
 description: |
-  My Website
 output_dir: "docs"
 navbar:
   right:
