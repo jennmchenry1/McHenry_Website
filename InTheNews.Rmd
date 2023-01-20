@@ -1,0 +1,17 @@
+---
+title: "In the News"
+description: |
+---
+
+## Recorded Talks
+
+[Projecting marine species range shifts from only temperature can mask climate vulnerability, NavHub Webinar Series](https://www.youtube.com/watch?v=1_-fC_-ZX-k&t=33s)
+
+## Press Releases & News Coverage
+
+Coverage of McHenry et al. (2019). Projecting marine species range shifts from only temperature can mask climate vulnerability. Global Change Biology. [https://doi.org/10.1111/gcb.14828](https://doi.org/10.1111/gcb.14828)
+
+- FSU press release: [FSU researchers: Multifactor models reveal worse picture of climate change impact on marine life.](https://news.fsu.edu/news/education-society/2019/09/30/fsu-researchers-multifactor-models-reveal-worse-picture-of-climate-change-impact-on-marine-life/)
+
+- [Radio story](https://soundcloud.com/floridastateuniversity/climate-change-research-could-show-trouble-for-marine-life)
+

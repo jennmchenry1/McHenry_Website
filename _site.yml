@@ -12,6 +12,8 @@ navbar:
       href: research.html
     - text: "Teaching"
       href: teaching.html
+    - text: "In The News"
+      href: InTheNews.html
     - text: "CV"
       href: CV.html
 output: distill::distill_article
