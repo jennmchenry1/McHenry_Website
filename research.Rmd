@@ -9,7 +9,7 @@ description: |
 ### Biodiversity Redistribution with Climate Change
 
 The first major theme of my research focuses on 
-anticipating potential changes in the biodiversity of coastal marine ecosystems with climate change. During my PhD, I examined the need to account for multiple environmental variables when projecting marine species range shifts in response to ocean warming. I also examined the potential for climate change to disrupt key ecological interactions, like the critical role that tropical seagrass beds in enhancing biodiversity. 
+anticipating potential changes in the biodiversity of coastal marine ecosystems with climate change. During my PhD, I examined the need to account for multiple environmental variables when projecting marine species range shifts in response to ocean warming. I also examined the potential for climate change to disrupt key ecological interactions, like the critical role that tropical seagrass beds play in enhancing biodiversity. 
 
 ![](Seagrass_Biodiversity.jpg)
 
