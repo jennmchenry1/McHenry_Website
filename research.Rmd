@@ -6,17 +6,24 @@ description: |
 ## Major Research Themes:
 
 
-### Marine Macroecology
-
-![Image Caption: XXX.](Biodiversity.jpg)
-
 ### Biodiversity Redistribution with Climate Change
 
-![Image Caption: XXX.](Seagrass.jpg)
+The first major theme of my research focuses on 
+anticipating potential changes in the biodiversity of coastal marine ecosystems with climate change. During my PhD, I examined the need to account for multiple environmental variables when projecting marine species range shifts in response to ocean warming. I also examined the potential for climate change to disrupt key ecological interactions, like the critical role that tropical seagrass beds in enhancing biodiversity. 
 
-### Marine Ecosystem Services 
+![](Seagrass_Biodiversity.jpg)
 
-![Image Caption: XXX.](Seagrass.jpg)
+### Marine Ecosystem Service Delivery in a Changing World
+
+The second major theme of my research seeks to understand and predict the ecosystem service outcomes of habitat conservation and restoration decisions. My dissertation research examined the capacity of seagrasses in the Florida Gulf Coast to provide multiple ecosystem services, evaluating spatial patterns of service co-variation and exploring the potential for co-benefits and trade-offs from management.
+
+![](Ecosystem_Services.jpg)
+
+### Ocean Climate Solutions
+
+An emerging theme of my research seeks to evaluate how blue carbon ecosystems (BCEs) can contribute to the development of ocean climate solutions. As part of a new multi-institute collaboration ([Blue Carbon Canada](www.BlueCarbonCanada.ca)), my postdoc research will address critical research gaps concerning the current and future mitigation potential of Canada’s BCEs.
+
+![](BCEs.jpg)
 
 
 ```{r setup, include=FALSE}
