@@ -1,7 +1,11 @@
 ---
-title: "CV"
-description: |
+image: "Jenn_coring.jpg"
+output:
+  postcards::trestles
+site: distill::distill_website
 ---
+
+# CV
 
 Download my CV [here](McHenry_CV_2023.pdf) 
 
@@ -9,9 +13,9 @@ Download my CV [here](McHenry_CV_2023.pdf)
 
 __PhD__ in Geography (2022), Florida State University
 
-__Dual MSc__ in Marine Biology and Marine Policy (2014), University of Maine
+__Dual MSc__ in Marine Biology and Marine Policy, University of Maine
 
-__BSc__ in Marine Science(2010), University of Maine
+__BSc__ in Marine Science, University of Maine
 
 ## Appointments
 

@@ -4,6 +4,7 @@ description: |
 
 ---
 
+
 ## Courses Taught:
 
 ### Geographic Information Systems lab (GIS4043L / GIS5101L) - Florida State University, Department of Geography - *Role: Instructor*

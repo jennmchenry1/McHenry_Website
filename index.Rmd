@@ -1,6 +1,5 @@
 ---
 title: "Dr. Jennifer McHenry"
-description: "Ocean Climate Solutions Postdoctoral Fellow"
 image: "postdoc_headshot_3.jpg"
 links:
   - label: '<i class="fab fa-twitter"></i> Twitter'
@@ -9,7 +8,6 @@ links:
     url: "https://github.com/jennmchenry1"
   - label: '<i class="fa fa-envelope" aria-hidden="true"></i> Email'
     url: "jennmchenry@uvic.ca"
-
 output:
   postcards::trestles
 site: distill::distill_website
