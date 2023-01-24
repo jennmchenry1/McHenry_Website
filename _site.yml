@@ -1,11 +1,13 @@
 name: "Mchenry_Website"
-title: "Jennifer McHenry"
+title: "Dr. Jennifer McHenry"
 description: |
 output_dir: "."
 navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "About Me"
+      href: About_Me.html
     - text: "Publications"
       href: publications.html
     - text: "Research"
