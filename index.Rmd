@@ -5,6 +5,6 @@ description: 'Coastal Ecology· Ecosystem Services · Global Change · Ocean Cli
 ---
 
 ```{r, fig.cap="", echo=FALSE}
-knitr::include_graphics("bullkelp.JPG")
+knitr::include_graphics("bullkelp.jpg")
 ```
 
