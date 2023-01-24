@@ -1,56 +1,10 @@
 ---
 title: "Dr. Jennifer McHenry"
-image: "postdoc_headshot_3.jpg"
-links:
-  - label: '<i class="fab fa-twitter"></i> Twitter'
-    url: "https://twitter.com/JennMcHenry"
-  - label: '<i class="fab fa-github"></i> GitHub'
-    url: "https://github.com/jennmchenry1"
-  - label: '<i class="fa fa-envelope" aria-hidden="true"></i> Email'
-    url: "jennmchenry@uvic.ca"
-output:
-  postcards::trestles
 site: distill::distill_website
-
+description: 'Coastal Ecology· Ecosystem Services · Global Change · Ocean Climate Solutions'
 ---
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
+```{r, fig.cap="", echo=FALSE}
+knitr::include_graphics("bullkelp.jpg")
 ```
-
-## About Me
-
-I am a quantitative marine ecologist with interests at the intersection of ecology, society, climate change, policy, and natural resource management. My research seeks to understand the consequences of climate change and marine management decisions for the structure, ecological function, and ecosystem services provided by coastal ecosystems, including seagrasses and temperate reefs. An emerging direction of my research also seeks to understand how better management of coastal ecosystems can contribute to climate mitigation and adaptation efforts. I combine novel field and lab approaches, geospatial analyses, open data synthesis, and forecast modeling. 
-
-I am most excited about interdisciplinary,applied, and solutions-oriented research, involving scientific collaborations and partnerships with marine stakeholders. Much of my work involves researchers and management practitioners from government agencies (e.g., NOAA, DFO) and eNGOs.
-
-I am passionate about teaching and mentoring to prepare students for future careers as modern scientists, policymakers, and professionals. If you are interested in getting involved in my research, please research out!
-
-Finally, I am committed to fostering diverse, equitable, and inclusive research and learning environments in higher education. 
-
-Currently, I am an Ocean Climate Solutions postdoctoral fellow in the [Baum Lab](https://www.juliakbaum.org/) at the University of Victoria (UVic) working on a multi-institute collaboration called the [Blue Carbon Canada project](www.BlueCarbonCanada.ca). Previously, I completed a PhD in geography in the Rasster Lab (the joint labs of [Dr. Sarah E. Lester](www.lester-lab.org) and [Dr. Andrew Rassweiler](www.rassweiler-lab.org) at [Florida State University](www.geography.fsu.edu)). 
-
-## Research Interests
-
-- Ecology and Biogeography 
-- Global Change Biology
-- Marine Ecosystem Services
-- Conservation and Restoration Science
-- Ocean Climate Solutions
-
-
-## Contact Details
-
-**Email:** [jennmchenry@uvic.ca](jennmchenry@uvic.ca)
-
-**Address:** Department of Biology, University of Victoria, Cunningham Building 105a, Victoria, BC V8P 5C2
 
