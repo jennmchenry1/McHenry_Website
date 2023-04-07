@@ -1,5 +1,5 @@
 ---
-image: "Jenn_coring.jpg"
+image: "Jenn_coring.JPG"
 output:
   postcards::trestles
 site: distill::distill_website

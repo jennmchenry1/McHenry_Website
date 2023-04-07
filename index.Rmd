@@ -2,6 +2,8 @@
 title: "Dr. Jennifer McHenry"
 site: distill::distill_website
 description: 'Coastal Ecology· Ecosystem Services · Global Change · Ocean Climate Solutions'
+output:
+  distill::distill_article
 ---
 
 ```{r, fig.cap="", echo=FALSE}

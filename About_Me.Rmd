@@ -1,5 +1,6 @@
 ---
 title: "Dr. Jennifer McHenry"
+site: distill::distill_website
 image: "postdoc_headshot_3.jpg"
 links:
   - label: '<i class="fab fa-twitter"></i> Twitter'
@@ -10,7 +11,7 @@ links:
     url: "mailto:jennmchenry@uvic.ca"
 output:
   postcards::trestles
-site: distill::distill_website
+
 
 ---
 
