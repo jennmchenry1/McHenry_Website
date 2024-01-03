@@ -10,7 +10,7 @@ links:
   - label: '<i class="fa fa-envelope" aria-hidden="true"></i> Email'
     url: "mailto:jennmchenry@uvic.ca"
 output:
-  postcards::trestles
+  # postcards::trestles
 
 
 ---
@@ -28,9 +28,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+
+
+```{r, fig.cap="", echo=FALSE,out.width="400px"}
+knitr::include_graphics("postdoc_headshot_3.jpg")
+```
+
 ## About Me
 
-I am a quantitative marine ecologist with research interests at the intersection of ecology, environmental change, society, and marine management. I combine novel field and lab approaches, geospatial analyses, open data synthesis, and forecast modeling to answer basic and applied questions about the changing structure, function, and ecosystem services provided by coastal ecosystems, including seagrasses and temperate reefs. Broadly, my research seeks to understand the consequences of intensifying climate changes and spatial management decisions for nature and people. An emerging direction of my research also seeks to understand how better management of coastal ecosystems can contribute to climate mitigation and adaptation efforts. 
+I am a quantitative marine ecologist with research interests at the intersection of ecology, environmental change, society, and marine management. I combine novel field and lab approaches, geospatial analyses, data synthesis, and statistical modeling to answer basic and applied questions about the changing structure, function, and ecosystem services provided by coastal ecosystems, including seagrasses, kelp forests, and tidal marshes. Broadly, my research seeks to understand the consequences of intensifying climate changes and spatial management decisions for nature and people. An emerging direction of my research also seeks to understand how better management of coastal ecosystems can contribute to climate mitigation and adaptation efforts. 
 
 I am most excited about solutions-oriented research, involving multidisciplinary collaborations and partnerships with marine stakeholders. Much of my work involves researchers and management practitioners from government agencies (e.g., NOAA, DFO) and eNGOs.
 
@@ -40,7 +46,7 @@ Finally, I am committed to fostering diverse, equitable, and inclusive research 
 
 
 ## Affiliation
-I am an Ocean Climate Solutions postdoctoral fellow in the [Baum Lab](https://www.juliakbaum.org/) at the University of Victoria (UVic) working on a multi-institute collaboration called the [Blue Carbon Canada project](www.BlueCarbonCanada.ca). Previously, I completed a PhD in geography in the Rasster Lab (the joint labs of [Dr. Sarah E. Lester](www.lester-lab.org) and [Dr. Andrew Rassweiler](www.rassweiler-lab.org) at [Florida State University](www.geography.fsu.edu)). 
+I am an Ocean Climate Solutions postdoctoral fellow in the [Baum Lab](https://www.juliakbaum.org/) at the University of Victoria (UVic) working on a multi-institute collaboration called the [Blue Carbon Canada project](www.BlueCarbonCanada.ca).  Previously, I completed a dual MSc in marine biology and policy at the University of  Maine's Darling Marine Center supervised by Dr. Bob Steneck, followed by a PhD in geography at Florida State University) supervised by [Dr. Sarah E. Lester](www.lester-lab.org). In between my MSc degrees and PhD, I worked as an affiliated researcher with the U.S. National Oceanic and Atmospheric Administration's Northeast Fisheries Science Center based at the [J.J. Howard Marine Lab](https://www.fisheries.noaa.gov/about/james-j-howard-marine-sciences-laboratory-sandy-hook) in Sandy Hook, NJ. Subsequently, I was as a lab manager and research technician with the Rasster Lab (the joint labs of Dr. Sarah Lester and [Dr. Andrew Rassweiler](www.rassweiler-lab.org) at FSU.   
 
 ## Research Interests
 
