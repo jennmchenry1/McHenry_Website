@@ -1,11 +1,16 @@
 ---
+title: "CV"
 image: "Jenn_coring.JPG"
 output:
-  postcards::trestles
+  # postcards::trestles
 site: distill::distill_website
 ---
 
-# CV
+```{r, fig.cap="", echo=FALSE, out.width="600px"}
+knitr::include_graphics("Jenn_coring.JPG")
+```
+
+<!-- # CV -->
 
 Download my CV [here](McHenry_CV_2023.pdf) 
 
