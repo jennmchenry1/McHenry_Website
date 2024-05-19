@@ -21,4 +21,4 @@ navbar:
 output: distill::distill_article
 theme: theme.css
 footer: _footer.html
-
+base_url: https://jennifermchenry.com

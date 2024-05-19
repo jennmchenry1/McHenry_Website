@@ -1,7 +1,6 @@
 ---
 title: "Coastal Ecology· Ecosystem Services · Global Change · Ocean Climate Solutions"
 description: |
-base_url: https://jennifermchenry.com
 site: distill::distill_website
 output:
   postcards::trestles
