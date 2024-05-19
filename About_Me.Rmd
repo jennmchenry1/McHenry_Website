@@ -1,7 +1,7 @@
 ---
 title: "Dr. Jennifer McHenry"
 description: |
-image: "photos/postdoc_headshot2.jpg"
+image: "photos/headshot_new.JPG"
 links:
   - label: '<i class="fab fa-github fa-lg"></i>'
     url: "https://github.com/jennmchenry1"

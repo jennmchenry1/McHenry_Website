@@ -1,43 +1,48 @@
 ---
 title: "Photo Gallery"
-output: 
-  flexdashboard::flex_dashboard:
-    orientation: rows
 ---
     
-Row
--------------------------------------
-    
-###
+### NASEM Florida Gulf Seagrass Field Research
 
 ```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
-knitr::include_graphics("photos/bullkelp.JPG")
+knitr::include_graphics("photos/Jenn_seagrass_surveys.jpg")
+```
+
+```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
+knitr::include_graphics("photos/caroline_core.jpg")
+```
+
+```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
+knitr::include_graphics("photos/team_w_core.jpg")
+```
+
+```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
+knitr::include_graphics("photos/sarah_and_Caroline.jpg")
 ```
 
 
-###
-    
-
-```{r,fig.cap="",out.width="75%",fig.align="center",echo=FALSE}
-knitr::include_graphics("photos/bullkelp.JPG")
+```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
+knitr::include_graphics("photos/seagrass_restoration.JPG")
 ```
 
 
-Row
--------------------------------------
-    
-### 
-    
 
-```{r,fig.cap="",out.width="75%",fig.align="center",echo=FALSE}
-knitr::include_graphics("photos/bullkelp.JPG")
+```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
+knitr::include_graphics("photos/Biodiversity.jpg")
 ```
 
 
-###
+   
+### NASEM Florida Gulf Blue Carbon Sampling
 
-
-```{r,fig.cap="",out.width="75%",fig.align="center",echo=FALSE}
-knitr::include_graphics("photos/bullkelp.JPG")
+```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
+knitr::include_graphics("photos/Jacob_biomass.jpg")
 ```
 
+```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
+knitr::include_graphics("photos/Drying.jpg")
+```
+
+```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
+knitr::include_graphics("photos/Nick_and_Jenn.jpg")
+```
