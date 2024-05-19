@@ -13,7 +13,7 @@ links:
     url: "https://www.researchgate.net/profile/Jennifer-Mchenry-2"
   - label: 'ORCID'
     url: "https://orcid.org/0000-0002-0269-358X"
-base_url: https://www.jennifermchenry.com
+base_url: https://jennifermchenry.com
 site: distill::distill_website
 output:
   postcards::trestles
