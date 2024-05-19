@@ -1,5 +1,5 @@
 name: "Mchenry_Website"
-title: "DR. JENNIFER MCHENRY"
+title: "JENNIFER MCHENRY"
 description: |
 output_dir: "."
 navbar:
@@ -18,6 +18,8 @@ navbar:
       href: InTheNews.html
     - text: "CV"
       href: CV.html
+    - text: "Photos"
+      href: photo_gallery.html
 output: distill::distill_article
 theme: theme.css
 footer: _footer.html
