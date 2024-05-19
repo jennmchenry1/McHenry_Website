@@ -1,9 +1,6 @@
 ---
 title: "In the News"
 description: |
-output:
-  postcards::trestles
-site: distill::distill_website
 ---
 
 ## Recorded Talks

@@ -1,9 +1,7 @@
 ---
 title: "Curriculum Vitae"
 description: |
-output:
-  postcards::trestles
-site: distill::distill_website
+
 ---
 
 
