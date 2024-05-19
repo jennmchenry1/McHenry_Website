@@ -5,8 +5,6 @@ description: |
 ---
 
 
-## Courses Taught:
-
 ### Geographic Information Systems lab (GIS4043L / GIS5101L) - Florida State University, Department of Geography - *Role: Instructor*
 - This is a a computer-based course introducing the expanding field of geographic information, as a cross listed course open to undergraduate and graduate students. The course covers topics ranging from the GIS software and spatial data structures to the cartographic principles for mapping, metadata creation, and a variety of spatial analyses. Students also gain hands-on experience with  applying concepts and tools introduces in the lectures using ArcGIS Pro. 
 
