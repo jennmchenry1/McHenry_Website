@@ -1,10 +1,16 @@
 ---
-title: "Dr. Jennifer McHenry"
+title: "Coastal Ecology· Ecosystem Services · Global Change · Ocean Climate Solutions"
+description: |
+footer: _footer.html
 site: distill::distill_website
-description: 'Coastal Ecology· Ecosystem Services · Global Change · Ocean Climate Solutions'
+output:
+  postcards::trestles
+
+
 ---
 
-```{r, fig.cap="", echo=FALSE}
-knitr::include_graphics("bullkelp.JPG")
+
+```{r,fig.cap="",out.width="75%",fig.align="center",echo=FALSE}
+knitr::include_graphics("photos/bullkelp.JPG")
 ```
 

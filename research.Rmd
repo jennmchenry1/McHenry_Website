@@ -1,35 +1,26 @@
 ---
-title: "Research"
+title: "Research Themes"
 description: |
 ---
 
-## Major Research Themes:
+
+### Biogeographical & ecological effects of ocean climate change
+
+The first major theme of my research addresses the biogeographical and ecological effects of ocean climate change on coastal and marine ecosystems. My research examines the effects of gradual climate changes (e.g., such as ocean warming and sea-level rise) on the geographic distributions of coastal marine species. Increasingly, I also consider the effects of extreme climatic events (e.g., marine heatwaves) on coastal ecosystems and how climate-driven redistribution of marine foundation species (e.g., seagrass beds and kelp forests) could impact coastal ecosystem functions. For this work I tend to integrate statistical models, spatial analysis, and data synthesis approaches with observational data, ocean-climate forecasts, and high-performance computing.  
+
+<!-- ![](Seagrass_Biodiversity.jpg) -->
+
+### Coastal management scenarios to achieve ecological & societal co-benefits
+
+The second major theme of my research concerns the diverse ecosystem services (ES) provided by coastal environments with foundation species. My research examines the biophysical drivers underpinning ES delivery and uses scenario modeling approaches to quantify the potential co-benefits of marine conservation and restoration decisions. Increasingly my research also explores how spatial planning and prioritization approaches can help to promote sustainable and equitable access to marine ecosystem services under climate change.
 
 
-### Biodiversity Redistribution with Climate Change
+<!-- ![](Ecosystem_Services.jpg) -->
 
-The first major theme of my research focuses on 
-anticipating potential changes in the biodiversity of coastal marine ecosystems with climate change. During my PhD, I examined the need to account for multiple environmental variables when projecting marine species range shifts in response to ocean warming. I also examined the potential for climate change to disrupt key ecological interactions, like the critical role that tropical seagrass beds play in enhancing biodiversity. 
+### Oceans as natural climate solutions
 
-![](Seagrass_Biodiversity.jpg)
+An emerging theme of my research addresses the potential for blue carbon ecosystems (BCEs) to contribute natural climate solutions (NCS). Foundation habitats, such as seagrass beds, tidal marshes, and potentially kelp forests, are thought to play a globally significant role as natural reservoirs for organic and inorganic carbon. However, there is still considerable uncertainty in their estimated extents and relative rates of carbon accumulation. My research seeks to resolve these uncertainties and critically evaluate whether BCEs could provide viable climate mitigation pathways through their expanded conservation and restoration. 
 
-### Marine Ecosystem Service Delivery in a Changing World
+<!-- ![](BCEs.jpg) -->
 
-The second major theme of my research seeks to understand and predict the ecosystem service outcomes of habitat conservation and restoration decisions. My dissertation research examined the capacity of seagrasses in the Florida Gulf Coast to provide multiple ecosystem services, evaluating spatial patterns of service co-variation and exploring the potential for co-benefits and trade-offs from management.
-
-![](Ecosystem_Services.jpg)
-
-### Ocean Climate Solutions
-
-An emerging theme of my research seeks to evaluate how blue carbon ecosystems (BCEs) can contribute to the development of ocean climate solutions. As part of a new multi-institute collaboration ([Blue Carbon Canada](www.BlueCarbonCanada.ca)), my postdoc research seeks to critically evaluate the potential for coastal and marine vegetated ecosystems to provide carbon sequestration and climate mitigation benefits, recognizing that these ecosystems face substantial redistribution with ocean climate change. 
-
-![](BCEs.jpg)
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-
-
-```
 

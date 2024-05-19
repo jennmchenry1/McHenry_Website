@@ -7,18 +7,24 @@ description: |
 My publications are listed on my [Google Scholar](https://scholar.google.com/citations?user=NQ2HpooAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Jennifer-Mchenry-2) pages. Feel free to reach out me for PDFs of any papers. 
 
 ## Pre-Prints
+- **McHenry, J.,** D. Okamoto, K. Filbee-Dexter, K. Krumhansl, K. MacGregor, M. Hessing-Lewis, ...(plus 15 co-authors) & J.K. Baum, (2024). A blueprint for national assessments of the blue carbon capacity of kelp forests applied to Canadas coastline. [doi]( https://doi.org/10.1101/2024.04.05.586816).
 
-- Starko, S., B. Timmer, L. Reshitnyk, M. Csordas, **J. McHenry**, S. Schroeder, M. Hessing-Lewis, M. Costa, A. Zielinksi, R. Zielinksi, S. Cook, R. Underhill, L. Boyer, C. Fretwell, J. Yakimishyn, W.A. Heath, C. Gruman, J.K. Baum, C. Neufeld. Temperature and food chain length, but not latitude, explain region-specific kelp forest responses to an unprecedented heatwave. [doi](https://doi.org/10.1101/2023.01.07.523109).
+## In Review
+- Starko, S., G. Epstein, L. Chalifour, K. Bruce, D. Buzzoni, M. Csordas, S. Dimoff, R. Hansen, D. Maucieri, **J. McHenry,** K. Tietjen, B. Timmer, & J.K. Baum. Ecological responses to ocean warming: a systematic review of the 2014-2016 Northeast Pacific marine heatwave. _Biological Reviews_.
+
+## 2024
+
+- Starko, S., B. Timmer, L. Reshitnyk, M. Csordas, **J. McHenry**, S. Schroeder, M. Hessing-Lewis, M. Costa, A. Zielinksi, R. Zielinksi, S. Cook, R. Underhill, L. Boyer, C. Fretwell, J. Yakimishyn, W.A. Heath, C. Gruman, J.K. Baum, & C. Neufeld. Temperature and food chain length, but not latitude, explain region-specific kelp forest responses to an unprecedented heatwave. _Marine Ecological Progress Series_. 2024.
 
 ## 2023
 
-- **McHenry, J.**, A. Rassweiler & S.E. Lester. Seagrass ecosystem services show complex spatial patterns and associations. (in review)
+- **McHenry, J.**, A. Rassweiler & S.E. Lester. Seagrass ecosystem services show complex spatial patterns and associations.  _Ecosystem Services_. 2023.
 
-- **McHenry J.**, A. Rassweiler, G. Hernan, A.K. Dubel, A.K., C. Curtin, N. Varias, J. Barzak & S.E. Lester. Biogeographic variation in blue carbon stored by seagrass beds. _Limnology & Oceanography _ 2023.
+- **McHenry J.**, A. Rassweiler, G. Hernan, A.K. Dubel, A.K., C. Curtin, N. Varias, J. Barzak & S.E. Lester. Biogeographic variation in blue carbon stored by seagrass beds. _Limnology & Oceanography._ 2023.
 
 ## 2021		
 
-- **McHenry, J.**, A. Rassweiler, G. Hernan, C.K. Uejio, S. Pau, A.K. Dubel & S.E. Lester. Modeling the biodiversity enhancement value of seagrass beds. _Diversity & Distributions_ 2021.
+- **McHenry, J.**, A. Rassweiler, G. Hernan, C.K. Uejio, S. Pau, A.K. Dubel & S.E. Lester. Modeling the biodiversity enhancement value of seagrass beds. _Diversity & Distributions._ 2021.
 
 ## 2020	
 
