@@ -32,8 +32,13 @@
       "path": "photo_gallery.html",
       "title": "Photo Gallery",
       "author": [],
+<<<<<<< HEAD
       "contents": "\r\nNASEM Florida Gulf Seagrass Field Research\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNASEM Florida Gulf Blue Carbon Analysis\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
       "last_modified": "2024-05-19T19:10:57-07:00"
+=======
+      "contents": "\r\nNASEM Florida Gulf Seagrass Field Research\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNASEM Florida Gulf Blue Carbon Analysis\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n9a1a496201f79c4290b7697f4ae6f223ad982897\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-05-19T19:09:20-07:00"
+>>>>>>> 34779127431f5d612f1291ad79815c1f9fa78956
     },
     {
       "path": "publications.html",
