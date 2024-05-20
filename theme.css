@@ -113,7 +113,7 @@ d-appendix {
 /* Links */
 
 a {
-    color: #CCBBDB;
+    color: #967BB6;
     border-bottom: 0px;
     text-decoration: underline;
 }
@@ -141,7 +141,7 @@ d-article a:hover, a:focus {
 /* Link buttons */
 
 .icon-link {
-    background-color: #CCBBDB;
+    background-color: #967BB6;
     color: var(--color-white);
     padding: 3px 5px 3px 5px;
     margin: 0 2px 0 2px;
@@ -149,12 +149,12 @@ d-article a:hover, a:focus {
 }
 
 .icon-link:hover {
-    background-color: #CCBBDB;
+    background-color: #967BB6;
     color: var(--color-white);
 }
 
 .icon-link-details {
-    background-color: #CCBBDB;
+    background-color: #967BB6;
     color: var(--color-white);
     padding: 3px 5px 3px 5px;
     margin: 0 2px 0 2px;
@@ -162,7 +162,7 @@ d-article a:hover, a:focus {
 }
 
 .icon-link-details:hover {
-    background-color: #CCBBDB;
+    background-color: #967BB6;
     color: var(--color-white);
 }
 
