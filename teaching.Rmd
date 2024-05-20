@@ -4,9 +4,12 @@ description: |
 
 ---
 
+### Climate Solutions Foundations  (GS 500 A01) - University of Victoria, [Coastal Climate Solutions Leaders Program](https://coastalclimatesolutionsleaders.org/) - *Role: Course Design & Teaching Assistant*
+- This broadly interdisciplinary course provides graduate students with foundational climate change knowledge and the skills to understand, critically evaluate, communicate, and apply this new knowledge in diverse contexts. The course covers the physical climate science (including climate forcings and impacts), and the state of knowledge concerning the suite of potential climate solutions available (including climate mitigation and adaption measures).The course is team-taught and employs a variety of active learning approaches, including student-led lessons and student-led discussions. Course content is guided by the sixth Intergovernmental on Climate Change Assessment Reports (i.e., IPCC AR6) and the latest peer review literature.
+
 
 ### Geographic Information Systems lab (GIS4043L / GIS5101L) - Florida State University, Department of Geography - *Role: Instructor*
-- This is a a computer-based course introducing the expanding field of geographic information, as a cross listed course open to undergraduate and graduate students. The course covers topics ranging from the GIS software and spatial data structures to the cartographic principles for mapping, metadata creation, and a variety of spatial analyses. Students also gain hands-on experience with  applying concepts and tools introduces in the lectures using ArcGIS Pro. 
+- This is a computer-based course introducing the expanding field of geographic information, as a cross listed course open to undergraduate and graduate students. The course covers topics ranging from the GIS software and spatial data structures to the cartographic principles for mapping, metadata creation, and a variety of spatial analyses. Students also gain hands-on experience with  applying concepts and tools introduces in the lectures using ArcGIS Pro. 
 
 
 ### Biogeography (GEO4300) - Florida State University, Department of Geography - *Role: Graduate Teaching Assistant*

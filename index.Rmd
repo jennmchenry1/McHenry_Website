@@ -1,5 +1,5 @@
 ---
-title: "Coastal Ecology· Ecosystem Services · Global Change · Ocean Climate Solutions"
+title: "Coastal Ecology · Ecosystem Services · Global Change · Ocean Climate Solutions"
 description: |
 site: distill::distill_website
 output:
