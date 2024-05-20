@@ -47,9 +47,4 @@ My publications are listed on my [Google Scholar](https://scholar.google.com/cit
 - **McHenry, J.**, R.S. Steneck, & D.C. Brady. Abiotic proxies for predictive mapping of near‐shore benthic assemblages: Implications for marine spatial planning. _Ecological Applications._ 2017. 
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-
-```
 
