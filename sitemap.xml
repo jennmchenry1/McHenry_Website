@@ -2,11 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://jennifermchenry.com/About_Me.html</loc>
-<<<<<<< HEAD
     <lastmod>2024-05-19T18:52:17-07:00</lastmod>
-=======
-    <lastmod>2024-05-19T16:20:15-07:00</lastmod>
->>>>>>> 9a1a496201f79c4290b7697f4ae6f223ad982897
   </url>
   <url>
     <loc>https://jennifermchenry.com/CV.html</loc>
@@ -22,11 +18,7 @@
   </url>
   <url>
     <loc>https://jennifermchenry.com/photo_gallery.html</loc>
-<<<<<<< HEAD
-    <lastmod>2024-05-19T18:53:10-07:00</lastmod>
-=======
-    <lastmod>2024-05-19T16:34:44-07:00</lastmod>
->>>>>>> 9a1a496201f79c4290b7697f4ae6f223ad982897
+    <lastmod>2024-05-19T19:09:17-07:00</lastmod>
   </url>
   <url>
     <loc>https://jennifermchenry.com/publications.html</loc>
