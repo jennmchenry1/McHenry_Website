@@ -2282,7 +2282,65 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-appendix {
     background-color: #DAD7CD;
     border-top: none;
-  }</style>
+  }
+
+
+  /* Links */
+
+  a {
+      color: #CCBBDB;
+      border-bottom: 0px;
+      text-decoration: underline;
+  }
+
+  d-article a {
+      color:  #967BB6;
+      border-bottom: 0px;
+      text-decoration: underline;
+  }
+
+  a:hover, a:focus {
+      color:  #967BB6;
+      font-weight: 500;
+      border-color: #967BB6;
+  }
+
+  d-article a:hover, a:focus {
+      color:  #967BB6;
+      font-weight: 500;
+      border-color:  #967BB6;
+  }
+
+
+
+  /* Link buttons */
+
+  .icon-link {
+      background-color: #CCBBDB;
+      color: var(--color-white);
+      padding: 3px 5px 3px 5px;
+      margin: 0 2px 0 2px;
+      border-radius: 5px; /* Rounded edges */
+  }
+
+  .icon-link:hover {
+      background-color: #CCBBDB;
+      color: var(--color-white);
+  }
+
+  .icon-link-details {
+      background-color: #CCBBDB;
+      color: var(--color-white);
+      padding: 3px 5px 3px 5px;
+      margin: 0 2px 0 2px;
+      border-radius: 5px; /* Rounded edges */
+  }
+
+  .icon-link-details:hover {
+      background-color: #CCBBDB;
+      color: var(--color-white);
+  }
+  </style>
   <style type="text/css">
   /* base style */
 
@@ -2495,7 +2553,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<p>Download my CV <a href="McHenry_CV_2023.pdf">here</a></p>
+<p>Download my CV <a href="McHenry_CV_2024.pdf">here</a></p>
 <h2 id="education">Education</h2>
 <p><strong>PhD</strong> in Geography (2022), Florida State University</p>
 <p><strong>Dual MSc</strong> in Marine Biology and Marine Policy, University of Maine</p>

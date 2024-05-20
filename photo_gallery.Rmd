@@ -4,53 +4,28 @@ title: "Photo Gallery"
     
 ### Seagrass Field Research on the Florida Gulf Coast 
 
-```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
+```{r,fig.cap="",out.width="50%",fig.ncol=4,echo=FALSE}
 knitr::include_graphics("photos/Jenn_seagrass_surveys.jpg")
-```
-
-```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
 knitr::include_graphics("photos/caroline_core.jpg")
-```
-
-```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
 knitr::include_graphics("photos/team_w_core.jpg")
-```
-
-```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
 knitr::include_graphics("photos/sarah_and_Caroline.jpg")
 ```
 
 
-```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
-knitr::include_graphics("photos/seagrass_restoration.JPG")
-```
-
-
-
-```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
-knitr::include_graphics("photos/Biodiversity.jpg")
-```
-
-
-```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
+```{r,fig.cap="",out.width="50%",echo=FALSE}
 knitr::include_graphics("photos/COVID_Boating.jpg")
+knitr::include_graphics("photos/Biodiversity.jpg")
+knitr::include_graphics("photos/seagrass_restoration.JPG")
+knitr::include_graphics("photos/Seagrass.jpg")
+
 ```
 
    
 ### Blue Carbon Analysis
 
-```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
+```{r,fig.cap="",out.width="50%",echo=FALSE}
 knitr::include_graphics("photos/Jacob_biomass.jpg")
-```
-
-```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
-knitr::include_graphics("photos/Drying.jpg")
-```
-
-```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
 knitr::include_graphics("photos/Nick_and_Jenn.jpg")
-```
-
-```{r,fig.cap="",out.width="100%",fig.align="center",echo=FALSE}
+knitr::include_graphics("photos/Drying.jpg")
 knitr::include_graphics("photos/LOI Samples.jpg")
 ```
