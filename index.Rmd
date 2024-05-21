@@ -9,7 +9,9 @@ output:
 ---
 
 
-```{r,fig.cap="",out.width="75%",fig.align="center",echo=FALSE}
+```{r,fig.cap="",out.width="50%",echo=FALSE}
 knitr::include_graphics("photos/bullkelp.JPG")
+knitr::include_graphics("photos/Seagrass_Square.jpg")
+
 ```
 
