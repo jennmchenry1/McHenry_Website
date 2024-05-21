@@ -2,7 +2,7 @@
 title: "Photo Gallery"
 ---
     
-### Seagrass Field Research on the Florida Gulf Coast 
+## Seagrass Field Research on the Florida Gulf Coast 
 
 ```{r,fig.cap="",out.width="50%",fig.ncol=4,echo=FALSE}
 knitr::include_graphics("photos/Jenn_seagrass_surveys.jpg")
@@ -21,7 +21,7 @@ knitr::include_graphics("photos/Seagrass.jpg")
 ```
 
    
-### Blue Carbon Analysis
+## Blue Carbon Analysis
 
 ```{r,fig.cap="",out.width="50%",echo=FALSE}
 knitr::include_graphics("photos/Jacob_biomass.jpg")
